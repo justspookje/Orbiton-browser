@@ -1,4 +1,4 @@
-# 🌐 Casperuim Browser
+# 🌐 Orbitom Browser
 
 A Chromium-based browser built with Electron.
 
